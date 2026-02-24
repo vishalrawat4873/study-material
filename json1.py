@@ -3,7 +3,7 @@ import json
 data= {
     "name": "Vishal Rawat",
     "age": 23,
-    "skills": [".netCore","Angular","Python"]
+    "skills": [".netCore","Angular"]
 }
 
 with open("file.txt", "w") as file:
