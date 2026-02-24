@@ -13,3 +13,4 @@ with open("file.txt", "r") as file:
     content = json.load(file)
 
 print(content)
+print("dfdfd")
